@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:src="@drawable/poke"
+            android:gravity="center"
+            android:tileMode="disabled" />
+    </item>
+</layer-list>
